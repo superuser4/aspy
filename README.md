@@ -1,2 +1,2 @@
 # aspy
-Android Spying &amp; C2 Framework
+Android Spyware &amp; C2 Framework
